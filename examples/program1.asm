@@ -1,0 +1,13 @@
+# Regjistrat A, B, C, D.
+# PC
+# MOV REG, REG|VAL
+# ADD REG, REG|VAL
+# SUB REG, REG|VAL
+# PRINT REG|VAL
+
+MOV A, 5
+MOV B, 3
+ADD A, B
+INC B
+PRINT A
+PRINT B
